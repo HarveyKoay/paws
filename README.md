@@ -1,2 +1,0 @@
-# Paws
-Swiping Cats
